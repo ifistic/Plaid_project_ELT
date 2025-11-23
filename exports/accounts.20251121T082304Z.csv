@@ -1,0 +1,13 @@
+account_id,name,official_name,type,subtype,mask,current_balance,available_balance,currency_code,created_at,updated_at
+oqWqlBaKyAckmpLgrJNMIBWD8MjjJrioq64wo,Plaid Checking,Plaid Gold Standard 0% Interest Checking,depository,checking,0000,110.00,100.00,USD,2025-11-20 19:19:14.358347,2025-11-20 22:41:26.161757
+gnNnE5qR71iNAjG7e1ogCZLrv9GGEbiE8AjkL,Plaid Saving,Plaid Silver Standard 0.1% Interest Saving,depository,savings,1111,210.00,200.00,USD,2025-11-20 19:19:14.358363,2025-11-20 22:41:26.161771
+8MvMNkXnZzHr97Z1dQDahK619kbbleiW3DvEK,Plaid CD,Plaid Bronze Standard 0.2% Interest CD,depository,cd,2222,1000.00,,USD,2025-11-20 19:19:14.358377,2025-11-20 22:41:26.161782
+Emnm85Xq3ZCGABJ15Z6psgnG1maaVwU4xWZdE,Plaid Credit Card,Plaid Diamond 12.5% APR Interest Credit Card,credit,credit card,3333,410.00,,USD,2025-11-20 19:19:14.358388,2025-11-20 22:41:26.161792
+Wjpja5n1krt6QZJV5ep3swLo7VKKDdC6Zeoav,Plaid Money Market,Plaid Platinum Standard 1.85% Interest Money Market,depository,money market,4444,43200.00,43200.00,USD,2025-11-20 19:19:14.3584,2025-11-20 22:41:26.161803
+AA4ALRXDKjIAJxEkZgB8IaJjelQQ4Et9rqRea,Plaid IRA,,investment,ira,5555,320.76,,USD,2025-11-20 19:19:14.358412,2025-11-20 22:41:26.161815
+G9R9W5Xrd1CMlna45kAjTyleoM33VqT6MDJjZ,Plaid 401k,,investment,401k,6666,23631.98,,USD,2025-11-20 19:19:14.358423,2025-11-20 22:41:26.161825
+nlblyzdqAWu84LWaKBpVF7ARlePPBDSAl1PmD,Plaid Student Loan,,loan,student,7777,65262.00,,USD,2025-11-20 19:19:14.358434,2025-11-20 22:41:26.161834
+bkwkLJnby7uQAdWN4Mq6U9BjXellDVtmbAgvr,Plaid Mortgage,,loan,mortgage,8888,56302.06,,USD,2025-11-20 19:19:14.358445,2025-11-20 22:41:26.161843
+mRaRmkxlAEC6a1VJq5W3sK7AkmGG5VigyBR33,Plaid HSA,Plaid Cares Health Savings Account,depository,hsa,9001,6009.00,6009.00,USD,2025-11-20 19:19:14.358455,2025-11-20 22:41:26.161853
+yNDN4e1PrBiBnbWejZKMcpRgG3VVQWt46VkvL,Plaid Cash Management,Plaid Growth Cash Management,depository,cash management,9002,12060.00,12060.00,USD,2025-11-20 19:19:14.358465,2025-11-20 22:41:26.161862
+9151PAXb6BfAgxRbaEKpIPDGxVppwdi4xdzJ7,Plaid Business Credit Card,Plaid Platinum Small Business Credit Card,credit,credit card,9999,5020.00,4980.00,USD,2025-11-20 19:19:14.358475,2025-11-20 22:41:26.161871

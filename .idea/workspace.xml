@@ -5,12 +5,25 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4941eb28-9336-411d-a72c-00415d3ea82e" name="Changes" comment="test project in progress">
-      <change afterPath="$PROJECT_DIR$/.idea/financialDemo1.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Plaid_to_postgres.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.env" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exchange_for_token.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exports/accounts.20251121T082304Z.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exports/accounts.20251121T082444Z.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exports/accounts.20251121T082715Z.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exports/accounts.20251121T102657Z.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exports/transactions.20251121T080011Z.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exports/transactions.20251121T082304Z.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exports/transactions.20251121T082444Z.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exports/transactions.20251121T082715Z.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exports/transactions.20251121T102657Z.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/extrqct_upsert_accunt.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/generate_access_token.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plaid_to_PostgreSQL_ETL_Detailed_Logging.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/postgres_to_s3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,11 +38,19 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/finanacialproject" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 1
-}]]></component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
   <component name="ProjectId" id="35iLt6y4LCgPEKHWXU6SzR07FFP" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -74,7 +95,15 @@
       <option name="project" value="LOCAL" />
       <updated>1763733839346</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="test project in progress">
+      <option name="closed" value="true" />
+      <created>1763733877874</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1763733877874</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
